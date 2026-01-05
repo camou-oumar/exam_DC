@@ -1,11 +1,8 @@
 numpy
-
 requests
-
 matplotlib
 pandas
 streamlit
 seaborn
-Beautifulsoup4
-
+beautifulsoup4
 
